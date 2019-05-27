@@ -24,7 +24,7 @@ This is accompanying code for the paper "Zero-shot Knowledge Transfer via Advers
 3. This saves .pickle file with all the transition curves
 
 ## Cite
-This work is under review for NeurIPS2019. In the mean time, please cite:
+If you build on this method or use this code please consider citing:
 ```
 @article{Micaelli2019ZeroShotKT,
   author    = {Paul Micaelli and
